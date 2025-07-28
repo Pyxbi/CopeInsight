@@ -1,0 +1,19 @@
+# .gitignore
+# Ignore Python bytecode files, logs, and environment files
+# Ignore database files and IDE configurations
+# Ignore virtual environment directories    
+trades.db
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.log
+*.env
+*.DS_Store
+*.vscode/
+*.idea/
+*.egg-info/
+*.egg
+*.zip                       
