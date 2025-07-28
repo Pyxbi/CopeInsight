@@ -54,7 +54,7 @@ Find the configuration section and replace the placeholder values with your own 
 
 Python
 
-# --- CONFIGURATION ---
+## --- CONFIGURATION ---
 BOT_TOKEN = "YOUR_BOT_TOKEN" 
 ADMIN_ID = YOUR_ADMIN_ID # Should be a number, not a string
 4. Run the Bot
