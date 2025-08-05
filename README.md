@@ -13,7 +13,7 @@ This bot solves the common problem of trade calls getting lost in a busy chat. M
 
 - Private Portfolio View: Users query the bot in a direct message to see the portfolio, preventing spam in the main channel.
 
-- Admin-Only Controls: Only the designated channel admin can execute trade management commands.
+- Admin-Only Controls: Only the designated channel admin can execute trade management commands
 
 - Persistent Storage: Uses an SQLite database to remember all trades, so no data is lost if the bot restarts.
 
