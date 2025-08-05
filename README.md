@@ -7,7 +7,7 @@ This bot solves the common problem of trade calls getting lost in a busy chat. M
 # ✨ Core Features
 - Spot & Futures Separation: Tracks Spot and Futures trades independently
 
-- Position Management: Supports Dollar-Cost Averaging (DCA) with /buy and taking partial profits with /sell.
+- Position Management: Supports Dollar-Cost Averaging (DCA) with /buy and taking partial profits with /sell
 
 - Real-time PNL: Automatically calculates and displays the live Profit & Loss for all open positions using the CoinGecko API.
 
