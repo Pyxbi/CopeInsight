@@ -15,7 +15,7 @@ ADMIN = ADMIN_ID
 # CoinGecko API for fetching crypto prices
 COINGECKO_API_URL = COINGECKO_URL
 
-# A simple map from ticker symbols (e.g., BTC) to CoinGecko IDs (e.g., bitcoin)
+
 # You can expand this list with more coins. Find IDs on the CoinGecko website.
 COIN_MAP = {
     "BTC": "bitcoin",
