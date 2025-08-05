@@ -5,7 +5,7 @@ A powerful yet simple Telegram bot designed to help channel admins log their cry
 This bot solves the common problem of trade calls getting lost in a busy chat. Members can instantly check an admin's open positions, entry prices, and live Profit & Loss (PNL) without asking.
 
 # ✨ Core Features
-- Spot & Futures Separation: Tracks Spot and Futures trades independently.
+- Spot & Futures Separation: Tracks Spot and Futures trades independently
 
 - Position Management: Supports Dollar-Cost Averaging (DCA) with /buy and taking partial profits with /sell.
 
